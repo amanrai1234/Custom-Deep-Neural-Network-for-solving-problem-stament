@@ -145,8 +145,7 @@ aving binary cross entropy as loss function and the s
 igmoid as the activation function in the final layer 
 as we are doing the task of classification.
 
-Comparison of the 3 MLP models with the Normal SVM, Random Forest and 
-Decision Tree classifier:
+# Comparison of the 3 MLP models with the Normal SVM, Random Forest and Decision Tree classifier:
 
 Here we note that the random forest and decision tree classifier performed
 better than the three MLP models, but here there is a catch I got same 
